@@ -41,7 +41,7 @@ Below is the flowchart of the Hangman game logic:
 
 **Hangman Flowchart**
 
-![Hangman Flowchart](https://github.com/mutkukucuk/hangman/tree/main/.idea)
+![Hangman Flowchart](https://github.com/mutkukucuk/hangman-py/blob/main/Hangman%2BFlowchart.png)
 
 
 ## Files Included
@@ -52,10 +52,3 @@ Below is the flowchart of the Hangman game logic:
 ## License
 This project is licensed under the MIT License.
 
----
-
-You can replace the link and any other details with your actual project info. Let me know if you need further modifications!# hangman-py
-# hangman-py
-# hangman-py
-# hangman-py
-# hangman-py
